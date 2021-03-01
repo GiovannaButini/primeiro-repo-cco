@@ -1,12 +1,12 @@
 Letra A:
-Amora
-Abacaxi
+1 - Amora
+2 - Abacaxi
 
 
 
 
 Letra M: 
-Melão 
-Mamão 
-Melancia 
+3 - Melão 
+4 - Maçã
+5 - Melancia
 
